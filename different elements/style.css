@@ -1,0 +1,26 @@
+*{
+    font-family: lemon milk;
+    
+}
+body{
+    font-size:22px;
+}
+h1,h2{
+    color: red;
+}
+
+p {
+    font-family: monospace;
+    color:purple;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+.gray {
+    color:gray;
+}
+
+#second{
+    font-style: italic;
+}
