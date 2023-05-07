@@ -1,5 +1,5 @@
 class month{
-    public static void main(String argsp[]){
+    public static void main(String args[]){
         int m=7;
         String ms="";
         switch(m){
