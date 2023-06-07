@@ -4,10 +4,9 @@ import java.util.*;
 abstract class Student{
 	int roll_no;
 	int reg_no;
-	
 	abstract void course();
 }
-
+f
 class Kittian extends Student{
 	String course;
 	Scanner sc =  new Scanner(System.in);
